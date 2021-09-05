@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # private keys
-config/
+config/keys.js
